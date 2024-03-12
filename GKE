@@ -1,0 +1,19 @@
+# Google Cloud Setup
+
+## Components:
+1. Artifact Registry
+2. Cloud Build
+3. Google Kubernetes Engine
+
+For the list of required permissions, refer to:
+
+## Creating a Container
+1. [Placeholder for step 1]
+2. [Placeholder for step 2]
+3. [Placeholder for step 3]
+
+## Building the Container
+- [Placeholder for building instructions]
+
+## Deploying the Container on GKE
+- [Placeholder for deployment instructions]
